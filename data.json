@@ -1,0 +1,19 @@
+{
+  "channelConfig": {
+    "name": "SMASHSUNG",
+    "subtitle": "Channel where i post hobby content",
+    "subscriberCount": "No subscribers",
+    "avatarUrl": "https://via.placeholder.com/150/004da0/ffffff?text=S",
+    "bannerUrl": "linear-gradient(90deg, #002e5d 0%, #004da0 50%, #005bb7 100%)",
+    "youtubeLink": "https://youtube.com/@smashsung"
+  },
+  "videos": [
+    {
+      "id": "dQw4w9WgXcQ",
+      "title": "Linux on DeX: Transforming the S24 Ultra into a Workstation",
+      "views": "2.4K",
+      "date": "2 days ago",
+      "length": "15:20"
+    },
+  ]
+    }
